@@ -20,5 +20,4 @@ https://wonder.cdc.gov/ucd-icd10.html
 
 ## Results
 * Tableau Public:
-
 https://public.tableau.com/views/Storytelling_Influenzaproject/Story_Influenzaproject?:language=de-DE&:sid=&:display_count=n&:origin=viz_share_link
