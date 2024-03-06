@@ -21,5 +21,4 @@ https://wonder.cdc.gov/ucd-icd10.html
   https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv
 
 ## Results
-* Tableau Public:
-https://public.tableau.com/views/Storytelling_Influenzaproject/Story_Influenzaproject?:language=de-DE&:sid=&:display_count=n&:origin=viz_share_link
+* Access through [Tableau Public](https://public.tableau.com/views/Storytelling_Influenzaproject/Story_Influenzaproject?:language=de-DE&:sid=&:display_count=n&:origin=viz_share_link)
