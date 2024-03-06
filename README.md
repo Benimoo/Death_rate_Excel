@@ -13,9 +13,11 @@ the project will plan for the upcoming influenza season.
 
 ## Data sets
 * Influenza Death by Geography
+  
 https://wonder.cdc.gov/ucd-icd10.html
 
 * Population data vy geography, time, age and gender
+  
   https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv
 
 ## Results
